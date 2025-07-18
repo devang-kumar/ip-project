@@ -18,17 +18,3 @@ regex==2024.11.6
 easyocr==1.7.2
 pytesseract==0.3.13
 python-bidi==0.6.6
-transformers==4.53.1
-sentencepiece==0.2.0
-huggingface-hub==0.33.2
-nltk==3.9.1
-google-api-python-client==2.174.0
-google-auth==2.40.3
-google-auth-httplib2==0.2.0
-openai-clip==1.0.1
-gTTS==2.5.1
-Flask==3.0.3
-Flask-Cors==5.0.0
-asgiref==3.8.1
-httpx==0.28.1
-uvicorn==0.30.1

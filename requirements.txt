@@ -5,7 +5,7 @@ django-crispy-forms==2.3
 sqlparse==0.5.1
 email_validator==2.2.0
 requests==2.32.3
-numpy==1.26.4 --only-binary=:all:
+numpy==1.25.2
 pandas==2.2.2
 Pillow==10.4.0
 opencv-python-headless==4.10.0.84
